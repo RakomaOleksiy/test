@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\my projects 2\fizfac progi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(27,26): warning C4305: инициализация: усечение из "double" в "float"
+D:\my projects 2\fizfac progi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,38): warning C4101: temproary_var1: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> D:\my projects 2\fizfac progi\ConsoleApplication1\Debug\ConsoleApplication1.exe

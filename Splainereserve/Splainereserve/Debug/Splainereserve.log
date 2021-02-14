@@ -1,0 +1,4 @@
+﻿  Splainereserve.cpp
+D:\my projects 2\fizfac progi\Splainereserve\Splainereserve\Splainereserve.cpp(32,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\my projects 2\fizfac progi\Splainereserve\Splainereserve\Splainereserve.cpp(54,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Splainereserve.vcxproj -> D:\my projects 2\fizfac progi\Splainereserve\Debug\Splainereserve.exe
